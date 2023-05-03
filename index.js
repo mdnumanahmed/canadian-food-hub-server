@@ -22,6 +22,14 @@ app.get("/recipe", (req, res) => {
 });
 
 
+app.get("/chef/:id", (req, res) => {
+  const id = req.params.id;
+  if (id) {
+    const recipeByChef = recipe.filter((n) => n.chef_id === id);
+    res.send(recipeByChef);
+  }
+});  
+
 app.listen(port, () => {
   console.log(`FoodHub server is running on port: ${port}`);
 });
