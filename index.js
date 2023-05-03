@@ -30,6 +30,13 @@ app.get("/chef/:id", (req, res) => {
   }
 });  
 
+app.get("/recipe/:id", (req, res) => {
+    const id = req.params.id;
+    const selectedRecipe = recipe.find((r) => r.id === id);
+    res.send(selectedRecipe);
+});
+
+
 app.listen(port, () => {
   console.log(`FoodHub server is running on port: ${port}`);
 });
