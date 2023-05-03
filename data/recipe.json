@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "recipe_name": "Maple Glazed Salmon",
+      "chef_id": 1,
+      "ingredients": ["Salmon fillets", "Maple syrup", "Soy sauce", "Garlic", "Ginger"],
+      "cooking_method": "Preheat oven to 400°F. Combine maple syrup, soy sauce, garlic, and ginger in a small bowl. Place salmon fillets in a baking dish and brush with the maple glaze. Bake for 12-15 minutes, or until cooked through. Serve hot.",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "recipe_name": "Poutine",
+      "chef_id": 1,
+      "ingredients": ["French fries", "Cheese curds", "Gravy", "Salt", "Pepper"],
+      "cooking_method": "Preheat oven to 425°F. Spread french fries on a baking sheet and bake for 20-25 minutes, or until crispy. Remove from oven and sprinkle cheese curds on top. Pour hot gravy over the cheese curds and fries. Add salt and pepper to taste. Serve hot.",
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "recipe_name": "Tourtière",
+      "chef_id": 1,
+      "ingredients": ["Ground pork", "Onion", "Potatoes", "Beef broth", "Cloves"],
+      "cooking_method": "Preheat oven to 375°F. Brown ground pork and onion in a skillet over medium heat. Add diced potatoes, beef broth, and cloves. Cook until potatoes are tender. Pour mixture into a pie crust and cover with another pie crust. Bake for 45 minutes, or until crust is golden brown. Serve hot.",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "recipe_name": "Butter Tarts",
+      "chef_id": 1,
+      "ingredients": ["Pie crust", "Butter", "Brown sugar", "Egg", "Vanilla extract"],
+      "cooking_method": "Preheat oven to 375°F. Roll out pie crust and cut into circles. Place circles into muffin tins. Melt butter and mix with brown sugar, egg, and vanilla extract. Pour mixture into the pie crusts. Bake for 15-20 minutes, or until filling is set. Serve hot.",
+      "rating": 4.9
+    },
+    {
+      "id": 5,
+      "recipe_name": "Montreal-style Bagels",
+      "chef_id": 1,
+      "ingredients": ["Bread flour", "Yeast", "Sugar", "Salt", "Egg"],
+      "cooking_method": "Preheat oven to 450°F. Combine bread flour, yeast, sugar, and salt in a mixing bowl. Add warm water and egg. Knead dough until smooth. Divide dough into 12 pieces and shape into bagels. Boil bagels in a pot of water for 1-2 minutes on each side. Remove from water and bake on a baking sheet for 15-20 minutes, or until golden brown. Serve hot.",
+      "rating": 4.6
+    },
+    {
+      "id": 6,
+      "recipe_name": "Nanaimo Bars",
+      "chef_id": 1,
+      "ingredients": ["Graham", "cracker crumbs", "Butter", "Icing"],
+      "cooking_method": "Preheat oven to 450°F. Combine bread flour, yeast, sugar, and salt in a mixing bowl. Add warm water and egg. Knead dough until smooth. Divide dough into 12 pieces and shape into bagels. Boil bagels in a pot of water for 1-2 minutes on each side. Remove from water and bake on a baking sheet for 15-20 minutes, or until golden brown. Serve hot.",
+      "rating": 4.6
+    },
+    {
+        "id": 7,
+        "recipe_name": "Maple Glazed Salmon",
+        "chef_id": 2,
+        "ingredients": ["Salmon fillets", "Maple syrup", "Soy sauce", "Garlic", "Ginger"],
+        "cooking_method": "Preheat oven to 400°F. Combine maple syrup, soy sauce, garlic, and ginger in a small bowl. Place salmon fillets in a baking dish and brush with the maple glaze. Bake for 12-15 minutes, or until cooked through. Serve hot.",
+        "rating": 4.8
+      },
+      {
+        "id": 8,
+        "recipe_name": "Poutine",
+        "chef_id": 2,
+        "ingredients": ["French fries", "Cheese curds", "Gravy", "Salt", "Pepper"],
+        "cooking_method": "Preheat oven to 425°F. Spread french fries on a baking sheet and bake for 20-25 minutes, or until crispy. Remove from oven and sprinkle cheese curds on top. Pour hot gravy over the cheese curds and fries. Add salt and pepper to taste. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "id": 9,
+        "recipe_name": "Tourtière",
+        "chef_id": 2,
+        "ingredients": ["Ground pork", "Onion", "Potatoes", "Beef broth", "Cloves"],
+        "cooking_method": "Preheat oven to 375°F. Brown ground pork and onion in a skillet over medium heat. Add diced potatoes, beef broth, and cloves. Cook until potatoes are tender. Pour mixture into a pie crust and cover with another pie crust. Bake for 45 minutes, or until crust is golden brown. Serve hot.",
+        "rating": 4.7
+      },
+      {
+        "id": 10,
+        "recipe_name": "Butter Tarts",
+        "chef_id": 2,
+        "ingredients": ["Pie crust", "Butter", "Brown sugar", "Egg", "Vanilla extract"],
+        "cooking_method": "Preheat oven to 375°F. Roll out pie crust and cut into circles. Place circles into muffin tins. Melt butter and mix with brown sugar, egg, and vanilla extract. Pour mixture into the pie crusts. Bake for 15-20 minutes, or until filling is set. Serve hot.",
+        "rating": 4.9
+      },
+      {
+        "id": 11,
+        "recipe_name": "Montreal-style Bagels",
+        "chef_id": 2,
+        "ingredients": ["Bread flour", "Yeast", "Sugar", "Salt", "Egg"],
+        "cooking_method": "Preheat oven to 450°F. Combine bread flour, yeast, sugar, and salt in a mixing bowl. Add warm water and egg. Knead dough until smooth. Divide dough into 12 pieces and shape into bagels. Boil bagels in a pot of water for 1-2 minutes on each side. Remove from water and bake on a baking sheet for 15-20 minutes, or until golden brown. Serve hot.",
+        "rating": 4.6
+      },
+      {
+        "id": 12,
+        "recipe_name": "Nanaimo Bars",
+        "chef_id": 2,
+        "ingredients": ["Graham", "cracker crumbs", "Butter", "Icing"],
+        "cooking_method": "Preheat oven to 450°F. Combine bread flour, yeast, sugar, and salt in a mixing bowl. Add warm water and egg. Knead dough until smooth. Divide dough into 12 pieces and shape into bagels. Boil bagels in a pot of water for 1-2 minutes on each side. Remove from water and bake on a baking sheet for 15-20 minutes, or until golden brown. Serve hot.",
+        "rating": 4.6
+      }
+]
+  

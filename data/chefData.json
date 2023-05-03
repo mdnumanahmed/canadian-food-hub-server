@@ -6,6 +6,7 @@
     "experience": 12,
     "numbers_of_recipes": 75,
     "likes": 1200,
+    "chef_short_bio": "John Smith is a highly experienced chef who specializes in Canadian cuisine.",
     "cuisine": "Canadian"
   },
   {
@@ -15,6 +16,7 @@
     "experience": 8,
     "numbers_of_recipes": 55,
     "likes": 900,
+    "chef_short_bio": "Emily Chen is a rising star in the Canadian culinary scene, known for her innovative approach to traditional dishes.",
     "cuisine": "Canadian"
   },
   {
@@ -24,6 +26,7 @@
     "experience": 15,
     "numbers_of_recipes": 100,
     "likes": 1500,
+    "chef_short_bio": "David Lee is a highly respected chef who has won numerous awards for his exceptional cuisine.",
     "cuisine": "Canadian"
   },
   {
@@ -33,6 +36,7 @@
     "experience": 10,
     "numbers_of_recipes": 80,
     "likes": 1300,
+    "chef_short_bio": "Sophie Martin is a talented chef who is known for her creative take on classic Canadian dishes.",
     "cuisine": "Canadian"
   },
   {
@@ -42,6 +46,7 @@
     "experience": 20,
     "numbers_of_recipes": 120,
     "likes": 1800,
+    "chef_short_bio": "Robert Johnson is a master chef who has been working in the culinary industry for over 20 years.",
     "cuisine": "Canadian"
   },
   {
@@ -51,6 +56,7 @@
     "experience": 6,
     "numbers_of_recipes": 40,
     "likes": 600,
+    "chef_short_bio": "Lisa Wong is a young and ambitious chef who is quickly making a name for herself in the Canadian food scene.",
     "cuisine": "Canadian"
   }
 ]
