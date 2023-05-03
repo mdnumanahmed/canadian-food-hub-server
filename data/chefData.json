@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "chef_img": "https://example.com/chef1.jpg",
+    "chef_name": "John Smith",
+    "experience": 12,
+    "numbers_of_recipes": 75,
+    "likes": 1200,
+    "cuisine": "Canadian"
+  },
+  {
+    "id": 2,
+    "chef_img": "https://example.com/chef2.jpg",
+    "chef_name": "Emily Chen",
+    "experience": 8,
+    "numbers_of_recipes": 55,
+    "likes": 900,
+    "cuisine": "Canadian"
+  },
+  {
+    "id": 3,
+    "chef_img": "https://example.com/chef3.jpg",
+    "chef_name": "David Lee",
+    "experience": 15,
+    "numbers_of_recipes": 100,
+    "likes": 1500,
+    "cuisine": "Canadian"
+  },
+  {
+    "id": 4,
+    "chef_img": "https://example.com/chef4.jpg",
+    "chef_name": "Sophie Martin",
+    "experience": 10,
+    "numbers_of_recipes": 80,
+    "likes": 1300,
+    "cuisine": "Canadian"
+  },
+  {
+    "id": 5,
+    "chef_img": "https://example.com/chef5.jpg",
+    "chef_name": "Robert Johnson",
+    "experience": 20,
+    "numbers_of_recipes": 120,
+    "likes": 1800,
+    "cuisine": "Canadian"
+  },
+  {
+    "id": 6,
+    "chef_img": "https://example.com/chef6.jpg",
+    "chef_name": "Lisa Wong",
+    "experience": 6,
+    "numbers_of_recipes": 40,
+    "likes": 600,
+    "cuisine": "Canadian"
+  }
+]
