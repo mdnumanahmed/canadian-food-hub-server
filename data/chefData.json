@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "chef_img": "https://example.com/chef1.jpg",
-    "chef_name": "John Smith",
+    "chef_img": "https://canadas100best.com/wp-content/uploads/2018/01/Buca_-117.jpg",
+    "chef_name": "Rob Gentile",
     "experience": 12,
     "numbers_of_recipes": 75,
     "likes": 1200,
-    "chef_short_bio": "John Smith is a highly experienced chef who specializes in Canadian cuisine.",
+    "chef_short_bio": "Rob Gentile is a highly experienced chef who specializes in Canadian cuisine.",
     "cuisine": "Canadian"
   },
   {
     "id": 2,
-    "chef_img": "https://example.com/chef2.jpg",
-    "chef_name": "Emily Chen",
+    "chef_img": "https://canadas100best.com/wp-content/uploads/2018/01/Chef-Headshot_Raca-Cafe_1.bw_.jpg",
+    "chef_name": "Ivana Raca",
     "experience": 8,
     "numbers_of_recipes": 55,
     "likes": 900,
-    "chef_short_bio": "Emily Chen is a rising star in the Canadian culinary scene, known for her innovative approach to traditional dishes.",
+    "chef_short_bio": "Ivana Raca is a rising star in the Canadian culinary scene, known for her innovative approach to traditional dishes.",
     "cuisine": "Canadian"
   },
   {
     "id": 3,
-    "chef_img": "https://example.com/chef3.jpg",
-    "chef_name": "David Lee",
+    "chef_img": "https://canadas100best.com/wp-content/uploads/2018/01/Aug-2015_Jason-garden-door.bw_.jpg",
+    "chef_name": "Jason Bangerter",
     "experience": 15,
     "numbers_of_recipes": 100,
     "likes": 1500,
-    "chef_short_bio": "David Lee is a highly respected chef who has won numerous awards for his exceptional cuisine.",
+    "chef_short_bio": "Jason Bangerter is a highly respected chef who has won numerous awards for his exceptional cuisine.",
     "cuisine": "Canadian"
   },
   {
     "id": 4,
-    "chef_img": "https://example.com/chef4.jpg",
-    "chef_name": "Sophie Martin",
+    "chef_img": "https://canadas100best.com/wp-content/uploads/2018/01/Canoe-105.jpg",
+    "chef_name": "Anthony Walsh",
     "experience": 10,
     "numbers_of_recipes": 80,
     "likes": 1300,
-    "chef_short_bio": "Sophie Martin is a talented chef who is known for her creative take on classic Canadian dishes.",
+    "chef_short_bio": "Anthony Walsh is a talented chef who is known for her creative take on classic Canadian dishes.",
     "cuisine": "Canadian"
   },
   {
     "id": 5,
-    "chef_img": "https://example.com/chef5.jpg",
-    "chef_name": "Robert Johnson",
+    "chef_img": "https://canadas100best.com/wp-content/uploads/2018/01/IMG_0088-credit-to-Montgomerys.jpg",
+    "chef_name": "Guy Rawlings",
     "experience": 20,
     "numbers_of_recipes": 120,
     "likes": 1800,
-    "chef_short_bio": "Robert Johnson is a master chef who has been working in the culinary industry for over 20 years.",
+    "chef_short_bio": "Guy Rawlings is a master chef who has been working in the culinary industry for over 20 years.",
     "cuisine": "Canadian"
   },
   {
     "id": 6,
-    "chef_img": "https://example.com/chef6.jpg",
-    "chef_name": "Lisa Wong",
+    "chef_img": "https://canadas100best.com/wp-content/uploads/2018/01/1909_Chef-Paul-Morna_credit-KylerVos_PM-74.jpg",
+    "chef_name": "Paul Moran",
     "experience": 6,
     "numbers_of_recipes": 40,
     "likes": 600,
-    "chef_short_bio": "Lisa Wong is a young and ambitious chef who is quickly making a name for herself in the Canadian food scene.",
+    "chef_short_bio": "Paul Moran is a young and ambitious chef who is quickly making a name for herself in the Canadian food scene.",
     "cuisine": "Canadian"
   }
 ]
