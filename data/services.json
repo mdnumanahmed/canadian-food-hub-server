@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "service_name": "Wedding Catering",
+      "service_icon": "http://kamleshyadav.com/html/catering/catering/assets/images/main/service/wedding.svg",
+      "description": "We offer customized menus and exceptional service to help make your wedding day unforgettable."
+    },
+    {
+      "id": 2,
+      "service_name": "Corporate Event",
+      "service_icon": "http://kamleshyadav.com/html/catering/catering/assets/images/main/service/corporate.svg",
+      "description": "We provide professional and efficient catering services for corporate events of all."
+    },
+    {
+      "id": 3,
+      "service_name": "Private Party Catering",
+      "service_icon": "http://kamleshyadav.com/html/catering/catering/assets/images/main/service/pub.svg",
+      "description": "We specialize in creating delicious and memorable experiences for your private parties."
+    },
+    {
+      "id": 4,
+      "service_name": "Holiday Catering",
+      "service_icon": "http://kamleshyadav.com/html/catering/catering/assets/images/main/service/sit-down.svg",
+      "description": "We offer festive menus and catering services for all your holiday events and gatherings."
+    }
+  ]
